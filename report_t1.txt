@@ -1,0 +1,9 @@
+Modelo do Arduino: Arduino BLE 33 Sense
+Data: 17/12/2023 19:40
+Versão: 1.0
+Estatísticas Temperaturas T1:
+Media: 19.992322332455963
+Mediana: 19.85
+Desvio Padrão: 1.6406796830480632
+Valor máximo: 22.98
+Valor mínimo: 17.4

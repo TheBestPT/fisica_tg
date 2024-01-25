@@ -1,0 +1,9 @@
+Modelo do Arduino: Arduino BLE 33 Sense
+Data: 17/12/2023 19:40
+Versão: 1.0
+Estatísticas Pressão Atmosférica:
+Media: 19.741951812107715
+Mediana: 19.55
+Desvio Padrão: 1.6041707351069867
+Valor máximo: 22.77
+Valor mínimo: 17.26
